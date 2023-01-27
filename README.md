@@ -1,1 +1,1 @@
-# Trapping-_Rain_Water_O-n-2-_Time_Complexity_Solution
+# Trapping-_Rain_Water_O(N)_Time_Complexity_Solution
